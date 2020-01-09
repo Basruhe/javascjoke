@@ -1,0 +1,1 @@
+console.log ("How do you comfort a JavaScript bug?")
